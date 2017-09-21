@@ -1,2 +1,2 @@
-# Salary-decision-making-using-various-regressions-methods
-This will depict a graph which shows salaries for different disgnations
+# Salary-Decision-Making-Using-Various-Regressions-Methods
+This will depict a graph which shows salaries for different designation.
